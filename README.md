@@ -1,0 +1,2 @@
+# Minesweeper
+Personal Minesweeper project
